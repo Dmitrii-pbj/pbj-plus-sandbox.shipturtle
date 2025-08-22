@@ -48,7 +48,7 @@
     "all-products": {
       "type": "featured-collection",
       "settings": {
-        "collection": "all",
+        "collection": "shipturtle-products",
         "products_to_show": 24,
         "title": "Featured collection",
         "heading_size": "h2",
